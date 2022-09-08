@@ -1,0 +1,16 @@
+{
+  "name": "unit-test-vowel-count",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest --run --reporter verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.23.1"
+  }
+}
